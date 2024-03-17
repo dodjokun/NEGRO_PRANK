@@ -1,0 +1,8 @@
+{
+  "titre": "Le Seigneur des Anneaux",
+  "auteur": "J.R.R. Tolkien",
+  "annee_publication": 1954,
+  "personnages": ["Frodo", "Gandalf", "Aragorn"],
+  "disponible": true,
+  "prix": 25.99
+}
